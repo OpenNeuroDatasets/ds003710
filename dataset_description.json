@@ -1,7 +1,7 @@
 {
   "Name": "APPLESEED Example Dataset",
   "BIDSVersion": "v1.6.0",
-  "License": "",
+  "License": "CC0",
   "Authors": [
     "Meghan H. Puglia",
     "Jacqueline S. Slobin",
